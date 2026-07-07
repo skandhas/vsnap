@@ -1,0 +1,13 @@
+# Build outputs
+/build/
+
+# Local vsnap store
+/.vsnap/
+
+# Local binaries
+/vsnap
+/vsnap.exe
+
+# Editor and OS noise
+.DS_Store
+Thumbs.db
