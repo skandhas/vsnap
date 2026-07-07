@@ -42,7 +42,7 @@ jobs:
       - name: Setup V
         uses: vlang/setup-v@v1.7
         with:
-          stable: true
+          version: master
 
       - name: Check V
         run: |
